@@ -1,0 +1,20 @@
+TASK
+In this task you are going to engaged in factor finding for legal factors. The definition of a legal factor is a "stereotypical pattern of fact that tends to strengthen or weaken a claim". In other words, a factor, is a kind of fact that comes up with regularity such that you could group facts that are similar. There are two key components of factors. We illustrate the key components with an example.
+
+Factors have been known to be useful in trade secret misappropriation cases. One factor is known as "Disclosure-in-negotiations". This factor describes a plaintiff's disclosure its product information in negotiations with a defendant. You should notice how this description of the factor is sort of broad, but specific. In specific, it is referencing the disclosure of facts during negotiations. Broadly, a disclosure could happen in negotiation in many different ways. Perhaps the disclosure occurred during informal negotiations during a dinner meeting or conversation in an elevator. Perhaps the disclosure occurred during a formal negotiation session. The first key component is that a factor needs to cover a specific scenario, but be broad enough to encompass how that scenario may present itself.
+
+Next, factors must support a court's conclusion on a legal issue. Continuing with the example of "Disclosure-in-negotiations", court's will use this to resolve the question of whether a trade secret misappropriation occurred.  This will be a component of a court's analysis, which for example looks something like this: "In this case, the plaintiff disclosed its formula for a water resistant superglue while negotiating a sale with the defendant.  Therefore, the defendant did not misappropriate the trade secret, as it had been disclosed to the defendant."  The second key component is that the factor was used to support the courts conclusion as to the legal issue. 
+
+INSTRUCTIONS
+In the current task, you are going to look through the analysis and conclusion produced by a court, but on a separate legal issue.  The legal issue here is whether a police officer had reasonable suspicion to detain a motorist. Thus, you will be trying to identify factors that support that conclusion.  In this case, courts may find that reasonable suspicion was or was not present. Any factor that an court considers in determining whether suspicion was present or not is relevant.
+
+There is no standard range for how many factors are involved in a legal problem, but you will find more than one. In legal problems where factors are considered, there are usually 15-20.
+
+You are to consider each Case[number] below and keep track of what factors are present in that particular case. As you move from case to case, you might find it necessary to amend the definition of a factor OR add a factor you've never seen before. 
+
+OUTPUT FORMATTING:
+Factor Name: Factor description
+
+You should provide a factor name and definition of that factor based on the analyses and conclusions provided below:
+
+**CASES**

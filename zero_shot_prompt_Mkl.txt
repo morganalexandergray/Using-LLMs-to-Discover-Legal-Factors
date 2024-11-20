@@ -1,0 +1,38 @@
+TASK
+We are going to be considering legal opinions and identifying the analysis and outcome of a particular kind of cases. Although there are more components to a legal opinion, we are generally concerned with these parts: 
+
+Analysis - This type is used for the part where the court discusses and reasons about the issues of the case, by discussing the law and analyzing the facts as applied to the law. Quite often the tone is deliberative, i.e., the court expresses opinions on the issues, arguments, claims, etc. However, it is quite common for a court to explain certain concepts important for the understanding of these issues. Such explanations are to be considered part of Analysis. It is also common for a court to include content that would be considered the Background (i.e., facts, procedure, parties’ claims). The difference is that, here, such content does not have a dedicated section and inter-leaves with court’s reasoning.
+
+Outcome - This type is used for the segment where the court states the outcome of its analysis, i.e., what decision it has reached. Usually, the L0 Outcome consists of one or just a couple of sentences. 
+
+More specifically we are interested in the Analysis and Outcome pertaining to a single issue.  This issue is whether a police officer had reasonable suspicion to detain a motorist on suspicion that the motorist was involved in the drug trade.  Involvement in the drug trade could be anything from possession of drugs, to trafficking, to distribution, etc.  The court frame the issue of "reasonable suspicion" as "reasonable suspicion to detain the motorist", "reasonable suspicion of drug trafficking", "reasonable suspicion for a prolonged detention". It might be the case that the court will rely on the reasonable suspicion standard in context of another issue, such as whether to an initial stop was illegal.  DO NOT RETURN ANALYSIS ON THIS ISSUE OR ANY OTHER UNREALTED ISSUE.
+
+Here's an example from a real case: 
+
+**Analysis**
+14: According proper deference to Officer McWhirter’s expertise and experience and examining the totality of the circumstances of his encounter with Woods, we find that Officer McWhirter had reasonable suspicion to detain Woods until the narcotics dog arrived. Officer McWhirter had extensive expertise and experience in detecting the transportation of drugs. He had served as a DPS patrol officer for more than 11 years and had personally seized “a lot” of drug and human smuggling loads. In one year, he had interdicted 1,500 pounds of marijuana.
+
+15: Using his expertise and experience, Officer McWhirter had particularized and objective reasons for suspecting that Woods was transporting illegal drugs. Woods was driving a rental ear with no personal belongings. His explanations for his trip so early in the morning — in one breath stating that he was going to visit his friend who had cancer and then in the next stating that he was taking his friend for “rehab” — were confusing and contradictory. Woods had an extensive criminal history of transporting illegal drugs. In the trunk of the ear, Woods had two unlabeled boxes taped shut that had solid weights that were consistent with drug packages. These facts gave Officer McWhirter reason to suspect that Woods may be transporting illegal drugs and justified detaining Woods until the narcotics dog arrived.
+
+16: We review de novo the legal issue whether the facts as the superior court found them constitute reasonable suspicion. Orne-las, 517 U.S. at 699, 116 S.Ct. 1657. As the superior court noted in its ruling, the facts were undisputed; the question was what the facts meant. The superior court ruled that in its view, Officer McWhirter’s beliefs about the meaning of the facts “were far more akin to speculation than reasonable suspicion.” That is the ultimate legal conclusion, however. Upon our de novo review of the record and considering that Woods was using a rental car with no personal belongings inside, provided confusing explanations about the purpose of his trip, had an extensive criminal history of drug transportation, and had two unlabeled taped boxes in the trunk of his ear that had a weight and density consistent with drug packages, we find that under the totality of the circumstances, Officer McWhirter had reasonable suspicion to detain Woods until the narcotics dog arrived.
+
+**Outcome**
+17: We therefore reverse the superior court’s ruling suppressing the evidence. Because the superior court did not rule on Woods’s motion that the length of his detention was unreasonable, we remand to the superior court for further proceedings.
+
+RULES
+- Look for headings. If there is a single paragraph with a phrase such as Discussion, Reasonable Suspicion, or similar content that is a clue for you to retrieve paragraphs after that heading. 
+
+- If the court's analysis does NOT rely on specific facts as shown in the example above, and only includes conclusory statements without considering facts, then you should return a larger span. 
+
+- You will be notified when a case is large.  When a case is large be very careful NOT to return a large span of paragraphs. FOCUS ONLY ON THE COURTS ANALYSIS ON REASONABLE SUSPICION. 
+
+INSTRUCTIONS
+You are to review the opinion provided below and identify the Analysis and Outcome on the issue of reasonable suspicion. And return the numbers for the paragraphs where the analysis starts and ends and the numbers for the paragraph(s) where the outcome starts and ends.  Do NOT summarize, simply identify the paragraph numbers and return.  Please use the following format: 
+
+**Analysis**
+14-16
+
+**Outcome**
+17
+
+[OPINION]
