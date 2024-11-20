@@ -8,6 +8,6 @@ initial_factor_finding_prompt: This was used to generate a list of rough factors
 
 factor_refinement_prompt_general: This prompt was used to create a refined factor representation based on the rough set of factors identified by the initial_factor_finding_prompts. 
 
-# Please cite the paper and make proper attributions when using these prompts or variations thereof. Until the final version is published, please use this citation: 
+### Attribution: Please cite the paper and make proper attributions when using these prompts or variations thereof. Until the final version is published, please use this citation: 
 Gray, M., Savelka, J., Oliver, W., & Ashley, K. (2024). Using LLMs to Discover Legal Factors. arXiv preprint arXiv:2410.07504.
 
